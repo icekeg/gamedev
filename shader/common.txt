@@ -1,0 +1,7 @@
+球谐可视化
+https://icgem.gfz-potsdam.de/vis3d/tutorial
+https://zhuanlan.zhihu.com/p/572840876
+https://zhuanlan.zhihu.com/p/430163791
+
+恶意不息的渲染分析
+https://www.youtube.com/watch?v=GpgtdLZ8YRQ

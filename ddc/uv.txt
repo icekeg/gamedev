@@ -1,0 +1,2 @@
+Unreal的自动2u工具，贴图利用率更高，但是uv比较碎
+https://www.uv-packer.com/download/

@@ -1,0 +1,8 @@
+blender基于体素与热力图的快速skinning插件
+https://blendermarket.com/products/voxel-heat-diffuse-skinning?ref=247
+
+网易的自动skinning论文
+https://iopscience.iop.org/article/10.1088/1742-6596/1550/3/032163/pdf
+
+新工程化skin方案，skin分层（maya）
+https://www.ngskintools.com/
