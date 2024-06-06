@@ -2,6 +2,8 @@
 https://icgem.gfz-potsdam.de/vis3d/tutorial
 https://zhuanlan.zhihu.com/p/572840876
 https://zhuanlan.zhihu.com/p/430163791
+https://blog.csdn.net/tiao_god/article/details/111240808
+https://read.qq.com/read/1043738098/44?source=m_jump 
 
 恶意不息的渲染分析
 https://www.youtube.com/watch?v=GpgtdLZ8YRQ
