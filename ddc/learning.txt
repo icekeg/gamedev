@@ -1,5 +1,15 @@
-zbrush，iclone
+zbrush，iclone面部表情细化教程
 https://www.youtube.com/watch?v=G4cgT-7Xiho&list=PLTHWvraT6EYfVMu_SloBE1yZIKBruBMCP
+
+
+blender头发插件
+https://deanzarkov.gumroad.com/l/xnpjz
+https://magazine.reallusion.com/2023/12/13/hair-creation-for-cc-characters-with-blender-or-zbrush-part-3-cc-content-development-guide/
+
+blender减面工具quad remesher
+https://www.gfxcamp.com/?s=quad+remesher
+
+
 
 网格变形反推线性蒙皮组合
 https://github.com/electronicarts/dem-bones
