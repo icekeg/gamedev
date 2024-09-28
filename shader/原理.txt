@@ -1,2 +1,7 @@
 双抛反射原理
 https://zhuanlan.zhihu.com/p/40784734
+
+
+brdf原理
+https://blog.csdn.net/qq_40947718/article/details/120837634
+https://zhuanlan.zhihu.com/p/485919892?utm_campaign=shareopn&utm_medium=social&utm_psn=1823491183525126144&utm_source=wechat_session

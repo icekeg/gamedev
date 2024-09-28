@@ -7,3 +7,11 @@ https://www.youtube.com/watch?v=2LvUB3_PAhI&list=PLKNsvWABWRceGFLyCWBz33f1aw4Wjy
 
 gta6
 https://www.youtube.com/watch?v=4MIOzORoW4A&list=PLiSlOaRBfgkdUcw9PBcsnZWNNbE_be5XK&index=3
+
+
+模块化rigging
+https://www.youtube.com/watch?v=liV7Vr3VKX8
+
+
+ue4 shader结构详解
+https://blog.csdn.net/qjh5606/article/details/117998757
