@@ -1,0 +1,25 @@
+快捷键
+https://docs.blender.org/manual/zh-hans/dev/interface/keymap/blender_default.html
+
+shift + A		添加物体
+shift + D		快速复制物体
+A		全选
+Alt+A		取消选择
+Alt+g/r/s		快速位置，旋转，缩放参数回到默认
+
+table		切换编辑模式与object模式（1，2，3可以切入不同等级）
+
+r，s，g		旋转缩放移动
+
+小键盘数字	快速切各个视图，小键盘小数点快速拉近选择物体，0为摄像机视图
+~		快速转试图菜单
+Alt + 鼠中键	拖动鼠标快速切入目标正交视图		
+
+按两遍z		可以切换z坐标的局部与全局状态
+
+shift+鼠右键	放置游标位置（新建物体出现位置）
+shift+s		游标与选择物体等之间的移动操作选择
+shift+c		游标回原点
+
+
+	
