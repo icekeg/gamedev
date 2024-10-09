@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=liV7Vr3VKX8
 
 ue4 shader结构详解
 https://blog.csdn.net/qjh5606/article/details/117998757
+
+custome node调用内部参数方法
+https://blueroses.top/2021/12/11/ue4-cai-zhi-bian-ji-qi-customnode-shi-yong-ji-qiao/
