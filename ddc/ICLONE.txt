@@ -1,2 +1,9 @@
 扫描角色模型表情，皱纹到cc角色
 https://courses.reallusion.com/home/character-creator/pipelines-and-render/zbrush-goz/face-tools?utm_source=universal&utm_medium=hub&utm_campaign=hub-link-back&utm_term=product-tutorial&v=scan-character-with-face-tools-|-part-2-|-face-tools-tutorial
+
+zbrush的模型projection功能
+https://www.youtube.com/watch?v=wbiiaecL9Kc
+
+
+cc到zbrush表情更新流程
+https://www.youtube.com/watch?v=gq5VSS9JLmc&t=603s
