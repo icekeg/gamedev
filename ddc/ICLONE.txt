@@ -11,3 +11,12 @@ https://www.youtube.com/watch?v=gq5VSS9JLmc&t=603s
 
 cc expression profile制作
 https://www.youtube.com/watch?v=oqGrtbwBlPA
+
+
+cc metahuman 
+https://www.youtube.com/watch?v=aiDgcf1S-d4
+
+metapipe nonhumanoid 非标模型导入
+https://www.youtube.com/watch?v=fN8mN-C6X0s&t=6s
+metapipe 自定义模型导入
+https://www.youtube.com/watch?v=EJny1FhMFsY

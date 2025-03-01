@@ -22,4 +22,7 @@ shift+s		游标与选择物体等之间的移动操作选择
 shift+c		游标回原点
 
 
+blender 2 metahuman
+https://www.youtube.com/shorts/wXBcU51VLa4?feature=share
+
 	
