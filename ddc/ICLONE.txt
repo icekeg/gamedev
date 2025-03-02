@@ -20,3 +20,5 @@ metapipe nonhumanoid 非标模型导入
 https://www.youtube.com/watch?v=fN8mN-C6X0s&t=6s
 metapipe 自定义模型导入
 https://www.youtube.com/watch?v=EJny1FhMFsY
+metapipe官方频道
+https://www.youtube.com/@artsnspells
