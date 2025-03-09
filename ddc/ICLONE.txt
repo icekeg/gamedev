@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=oqGrtbwBlPA
 cc metahuman 
 https://www.youtube.com/watch?v=aiDgcf1S-d4
 
+----------------------------------------------------------------------------
+Metapipe相关
 metapipe nonhumanoid 非标模型导入，基于synapses
 https://www.youtube.com/watch?v=fN8mN-C6X0s&t=6s
 
@@ -30,4 +32,8 @@ https://www.youtube.com/@artsnspells
 https://www.youtube.com/watch?v=UOy6whJ1O6w
 metapipe引擎导入设置
 https://www.youtube.com/watch?v=EJny1FhMFsY
+
+购买界面
+https://www.artstation.com/marketplace/p/9Vy0V/metapipe-3-bundle-advanced-metahuman-customization-beta-release
+------------------------------------------------------------------------------
 
